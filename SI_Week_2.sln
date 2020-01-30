@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codecool.ApplicationProcess", "application-process-csharp-siposzoltan03\src\ApplicationProcess.Console\Codecool.ApplicationProcess.csproj", "{4AD8F49A-8723-44F1-9A7D-CC37AE038B5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeekAndArchive", "SeekAndArchive\SeekAndArchive.csproj", "{633FDFA5-9538-47F5-A1CA-5761B43A21A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AD8F49A-8723-44F1-9A7D-CC37AE038B5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AD8F49A-8723-44F1-9A7D-CC37AE038B5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AD8F49A-8723-44F1-9A7D-CC37AE038B5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AD8F49A-8723-44F1-9A7D-CC37AE038B5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{633FDFA5-9538-47F5-A1CA-5761B43A21A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{633FDFA5-9538-47F5-A1CA-5761B43A21A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{633FDFA5-9538-47F5-A1CA-5761B43A21A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{633FDFA5-9538-47F5-A1CA-5761B43A21A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {329D6CDF-E202-4D52-BA1B-7CB378D0E734}
+	EndGlobalSection
+EndGlobal

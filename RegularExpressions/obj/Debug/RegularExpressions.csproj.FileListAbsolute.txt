@@ -1,0 +1,15 @@
+C:\Users\sipos\source\repos\SI_Assigments\SI_Week_2\RegularExpressions\bin\Debug\RegularExpressions.exe.config
+C:\Users\sipos\source\repos\SI_Assigments\SI_Week_2\RegularExpressions\bin\Debug\RegularExpressions.exe
+C:\Users\sipos\source\repos\SI_Assigments\SI_Week_2\RegularExpressions\bin\Debug\RegularExpressions.pdb
+C:\Users\sipos\source\repos\SI_Assigments\SI_Week_2\RegularExpressions\obj\Debug\RegularExpressions.csprojAssemblyReference.cache
+C:\Users\sipos\source\repos\SI_Assigments\SI_Week_2\RegularExpressions\obj\Debug\MainWindow.g.cs
+C:\Users\sipos\source\repos\SI_Assigments\SI_Week_2\RegularExpressions\obj\Debug\App.g.cs
+C:\Users\sipos\source\repos\SI_Assigments\SI_Week_2\RegularExpressions\obj\Debug\RegularExpressions_MarkupCompile.cache
+C:\Users\sipos\source\repos\SI_Assigments\SI_Week_2\RegularExpressions\obj\Debug\RegularExpressions_MarkupCompile.lref
+C:\Users\sipos\source\repos\SI_Assigments\SI_Week_2\RegularExpressions\obj\Debug\MainWindow.baml
+C:\Users\sipos\source\repos\SI_Assigments\SI_Week_2\RegularExpressions\obj\Debug\RegularExpressions.g.resources
+C:\Users\sipos\source\repos\SI_Assigments\SI_Week_2\RegularExpressions\obj\Debug\RegularExpressions.Properties.Resources.resources
+C:\Users\sipos\source\repos\SI_Assigments\SI_Week_2\RegularExpressions\obj\Debug\RegularExpressions.csproj.GenerateResource.cache
+C:\Users\sipos\source\repos\SI_Assigments\SI_Week_2\RegularExpressions\obj\Debug\RegularExpressions.csproj.CoreCompileInputs.cache
+C:\Users\sipos\source\repos\SI_Assigments\SI_Week_2\RegularExpressions\obj\Debug\RegularExpressions.exe
+C:\Users\sipos\source\repos\SI_Assigments\SI_Week_2\RegularExpressions\obj\Debug\RegularExpressions.pdb
